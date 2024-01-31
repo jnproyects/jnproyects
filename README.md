@@ -1,41 +1,35 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png">
-  <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
-  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
-</picture>
+<img src="https://th.bing.com/th/id/OIG3.Lu0E5a_oEOWTaYKGuyF4?pid=ImgGn" alt="drawing" width="200" height="200"/>
 
 
-## About me
+## Hola, mi nombre es Juan Pablo Morales.
 
-Hi, I'm **Juan Pablo Morales**. I am currently learning mobile app development with **Dart and Flutter**, and creating some projects to practice my knowledge.
-
-
-<details open>
-<summary>My top languages</summary>
-
-| Rank | Languages |
-|-----:|-----------|
-|     1| Dart      |
-|     2| JavaScript|
-|     3| SQL       |
-
-</details>
-
-### Knowledge of the following technologies
-
-1. Flutter
-2. Nodejs
-3. MongoDB
-4. GIT
-5. Docker
+Soy programador y actualmente estoy dedicado al **desarrollo de apps móviles con Flutter** 📱
 
 
----
-> If we pull together and commit ourselves, then we can push through anything.
+### Mi experiencia 💻
 
-— Mona the Octocat
+Soy Tecnólogo en Analisis y Desarrollo de Sistemas de Información del SENA. Tuve la oportunidad de planificar y desarrollar un proyecto de grado en PHP, JavaScript, HTML, CSS y MySQL para una empresa real de producción textil durante mi etapa lectiva.
+
+Luego trabajé durante 1 año aproximadamente en una empresa enfocada en el desarrollo de software académico, en la cual inicié con el desarrollo móvil utilizando **Java** para el desarrollo de Android y posteriormente utilicé **Ionic**.
+
+Desde hace 1 año estoy dedicado a estudiar y realizar proyectos propios, con el objetivo de especializarme en el área del **desarrollo móvil multiplataforma** con **Flutter**.
 
 
-<!-- TO DO: add more details about me later -->
+### Conocimientos en las siguientes tecnologías
 
+- Dart y Flutter.
+  - Gestores de estado Riverpod, Provider, Bloc/Cubits, entre otros.
+  - Conumo de REST APIs
+  - Manejo de paguetes, librerías.
+  - Principios de arquitectura limpia.
+- JavaScript, TypeScript, Nodejs.
+- Bases de Datos SQL y NO-SQL
+  - MongoDB
+  - SQLServer
+  - MySQL
+  - PostgreSQL
+- Git - GitHub.
+- Docker.
+- PHP, Python, HTML5, CSS3.
+- Servicios como Firebase, MongoDB Atlas, Render, Railway, entre otros.
 
