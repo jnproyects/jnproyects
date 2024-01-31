@@ -3,7 +3,7 @@
 
 ## Hola, mi nombre es Juan Pablo Morales.
 
-Soy programador y actualmente estoy dedicado al **desarrollo de apps móviles con Flutter** 📱
+Programador y actualmente dedicado al **desarrollo de apps móviles con Flutter** 📲
 
 
 ### Mi experiencia 💻
@@ -15,7 +15,7 @@ Luego trabajé durante 1 año aproximadamente en una empresa enfocada en el desa
 Desde hace 1 año estoy dedicado a estudiar y realizar proyectos propios, con el objetivo de especializarme en el área del **desarrollo móvil multiplataforma** con **Flutter**.
 
 
-### Conocimientos en las siguientes tecnologías
+### Conocimientos en las siguientes tecnologías 👨‍💻
 
 - Dart y Flutter.
   - Gestores de estado Riverpod, Provider, Bloc/Cubits, entre otros.
