@@ -8,7 +8,7 @@ Programador con énfasis en **desarrollo de apps móviles con Dart y Flutter** �
 
 ### Mi experiencia 💻
 
-Soy Tecnólogo en Análisis y Desarrollo de Software con 4 años de experiencia. Actualmente y desde hace 1 año estoy dedicado al estudio y desarrollo de proyectos personales con **Flutter y Dart**, esto con el objetivo de especializarme en el área del **desarrollo móvil multiplataforma**.
+Soy Tecnólogo en Análisis y Desarrollo de Software con 3 años de experiencia en desarrollo web y conocimientos en backend. Actualmente y desde hace 1 año estoy dedicado al estudio y desarrollo de proyectos personales con **Flutter y Dart**, esto con el objetivo de especializarme en el área del **desarrollo móvil multiplataforma**.
 
 
 ### Conocimientos en las siguientes tecnologías 👨‍💻
